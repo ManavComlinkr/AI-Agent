@@ -1,0 +1,48 @@
+Intent,User Example,Bot Response
+greeting,Hi,Hi there! 👋 Welcome to realXmarket by Xcavate — your gateway to fractional real estate investments powered by Web3. How can I help you today?
+goodbye,Bye,"You're welcome! 👋 If you have any more questions, just drop by. Wishing you great success with your investments!"
+thank_you,Thanks,No problem at all! 😊 Always happy to assist. Feel free to explore our platform or chat with me again anytime.
+investment_process,How do I invest?,"To invest in a property on realXmarket, simply: (1) Create an account and complete KYC verification, (2) Connect your wallet, (3) Browse verified property listings, and (4) Choose an offering and buy tokens using USDT or supported assets. The process is fully secured via smart contracts."
+security_measures,Is my investment safe?,"Absolutely. We prioritize your security with end-to-end encryption, secure wallet integration, smart contract audits, and role-based access controls. All transactions are recorded on the blockchain for full transparency."
+regulatory_compliance,Are you legal?,"Yes — Xcavate adheres to global compliance standards including KYC (Know Your Customer), AML (Anti-Money Laundering), and regional investment guidelines. We partner with legal experts to ensure every project is properly vetted and compliant."
+fees_and_costs,What are the charges?,"There are minimal platform fees for each transaction, transparently shown before you invest. You may also encounter blockchain gas fees depending on the network you’re using (e.g., Ethereum or Solana). We do not charge any hidden fees."
+technical_support,The site isn’t working,"Sorry to hear that! Please make sure your wallet (like MetaMask or Phantom) is properly connected and refreshed. If issues persist, contact our technical team via the support form or join our Discord for real-time assistance."
+tokenization_explained,What is tokenization?,"Tokenization means converting physical real estate into digital tokens on the blockchain. These tokens represent fractional ownership — allowing more people to invest, diversify portfolios, and trade real estate just like stocks or crypto assets."
+benefits_of_using_xcavate,Why Xcavate?,"realXmarket allows global users to invest in vetted real estate deals with lower capital, faster liquidity, and transparent smart contract-based ownership. We make property investing flexible, secure, and accessible — all without the red tape."
+transaction_failure,Transaction didn't go through,"We understand how frustrating that can be. Please check your wallet transaction history and blockchain explorer for confirmation. If it failed or is stuck, contact our support team and share your transaction ID for prompt resolution."
+wallet_setup,How do I connect my wallet?,"To connect your wallet, click 'Connect Wallet' at the top right corner and select your preferred wallet provider (e.g., MetaMask, Phantom). Approve the connection in your wallet app to get started."
+property_verification,How are properties verified?,"All properties listed on realXmarket go through a strict due diligence process including title verification, ownership checks, and legal review by trusted partners before being tokenized."
+language_support,Is the app available in other languages?,"Currently, we support English, but multi-language support is planned in future updates. Stay tuned for announcements."
+partnerships,Are you working with property developers?,"Yes! We collaborate with established property developers and real estate firms globally. Our partnerships ensure that only high-quality, legally compliant projects are listed."
+onboarding_help,"I’m new, where do I start?","Welcome! 🎉 Start by signing up, completing your profile with KYC, connecting your wallet, and then explore investment opportunities under the 'Marketplace' tab. You can always reach out if you get stuck!"
+mission_statement,What is Xcavate’s mission?,"Xcavate’s mission is to revolutionize global real estate investment through trustless blockchain tokenization, enabling transparency, fractional ownership, and compliant cross-border asset access."
+mission_statement,Why was Xcavate created?,"Xcavate was built to solve the challenges of real estate illiquidity, lack of transparency, and regional inaccessibility using blockchain and decentralized identity technology."
+fractional_ownership,What is fractional ownership?,"Fractional ownership allows users to invest in portions of a property, reducing capital entry barriers. Xcavate enables this via tokenized shares on the blockchain."
+fractional_ownership,Can I buy a piece of a property?,"Yes, with Xcavate, you can own fractions of verified real estate assets through blockchain-based tokenization."
+nft_collateral,What is NFT-backed collateral?,NFT-backed collateral refers to using your tokenized property assets as collateral in DeFi lending protocols. Xcavate supports asset-backed loans via verifiable NFTs.
+nft_collateral,Can I borrow using property tokens?,"Yes, real estate tokens on Xcavate can be used as collateral to access loans through supported lending partners."
+assetDIDcomm,What is AssetDIDcomm?,"AssetDIDcomm is a secure, decentralized messaging framework allowing trusted communication between asset stakeholders, secured via verifiable digital IDs and IPFS."
+assetDIDcomm,How does Xcavate handle secure communication?,"Xcavate uses AssetDIDcomm for encrypted messaging, ensuring privacy and auditability in asset-related transactions."
+token_governance,What is XCAV token governance?,"XCAV holders can vote on protocol upgrades, asset listings, and policy decisions, shaping the future of the Xcavate ecosystem."
+token_governance,How do I participate in governance?,You can stake your XCAV tokens and participate in on-chain voting processes through the governance dashboard.
+regulatory_sandbox,Is Xcavate legally compliant?,"Yes, Xcavate operates under international compliance frameworks including KYC/AML, and has participated in the FCA regulatory sandbox."
+regulatory_sandbox,What is the FCA sandbox?,The FCA sandbox is a UK regulatory environment where fintech companies like Xcavate test innovative solutions under regulatory supervision.
+polkadot_integration,Is Xcavate on Polkadot?,"Yes, Xcavate is building on Polkadot to leverage its multichain infrastructure, cross-chain messaging, and parachain scalability."
+polkadot_integration,Why did you choose Polkadot?,"Polkadot’s shared security and cross-chain operability make it ideal for scalable, compliant asset tokenization."
+staking_rewards,How does staking work on Xcavate?,"Users can stake XCAV tokens to earn network rewards, gain governance rights, and support protocol stability."
+staking_rewards,Can I earn rewards for staking?,"Yes, staking your XCAV tokens provides rewards distributed from network fees and protocol activity."
+greeting,Hey there!,Hey! 👋 Welcome back to Xcavate’s realXmarket. What can I help you with today?
+confused_user,I'm lost,No worries! Want me to simplify it or walk you through step-by-step?
+confused_user,I don’t get it,That's totally fine — this stuff can be complex. Want a quick breakdown or detailed guide?
+frustrated_user,This isn’t working,I get how frustrating that can be. Let’s fix it together — what part is causing trouble?
+praise,Nice work!,Thank you! 🙌 Our team is working hard to make real estate investing accessible and transparent.
+thankful_user,Thanks for the help,You're welcome! 😊 Anything else you'd like to explore?
+wallet_setup_help,How do I connect my wallet?,Click 'Connect Wallet' on the homepage and choose MetaMask or Phantom. Need help installing a wallet too?
+explain_tokenization,What is tokenization?,Tokenization means converting physical real estate into blockchain-based digital tokens. Want to see how it works on our platform?
+wallet_install_help,I don’t have MetaMask,"No problem! You can install it from https://metamask.io — once you're set up, come back and I’ll walk you through the next steps."
+show_tokenization_example,"Yes, show me an example",Sure! Let’s look at Property XYZ. Each token represents a fractional share of ownership — fully verified and recorded on the blockchain.
+excited_user,This looks awesome!,We're thrilled you think so! 🎉 Would you like to explore featured listings or start investing?
+nervous_user,I’m not sure about crypto,That’s totally okay! We’re here to guide you. Want a beginner-friendly explanation of how everything works?
+idle_user,Just looking around,"Take your time! When you're ready, I can walk you through listings or explain how real estate tokenization works."
+invest_guide_offer,"Yes, show me how to start investing","Awesome! First, connect your wallet and verify your identity. Then browse listings and purchase tokens securely through smart contracts."
+need_more_help,I still don’t get it,"Let’s break it down together — are you stuck on wallets, listings, or how the tokens work?"

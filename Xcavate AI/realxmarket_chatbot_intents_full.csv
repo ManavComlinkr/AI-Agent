@@ -1,0 +1,28 @@
+Intent,User Example,Bot Response
+app_overview,What is realXmarket about?,realXmarket is a platform where you can invest in tokenized real estate — making property ownership easier and more accessible.
+risk_disclaimer,Is this investment risky?,Every investment has some risk. We provide risk warnings upfront so you can make informed decisions before proceeding.
+account_creation,How do I create an account?,Simply tap 'Sign Up' on the home screen and follow the guided steps to set up your account.
+wallet_setup,How do I get a wallet?,You can create a new wallet inside the app or import an existing one using your seed phrase.
+kyc_kyb_verification,Why do I need to complete KYC?,KYC helps us verify your identity to comply with regulations and keep your account secure.
+terms_conditions,What happens if I don't agree to the terms?,You won’t be able to proceed with investments unless you accept the terms.
+property_selection,How do I select a property?,Use filters and sorting tools to find properties that match your preferences and budget.
+token_info,What is a property token?,Each token represents a fraction of a property’s value and gives you access to rental income and growth.
+smart_contract_explained,What does the smart contract do?,It handles legal agreements digitally and ensures your investment is recorded on the blockchain.
+fund_reservation,Why are my funds reserved?,Funds are temporarily locked when you commit to a property so that tokens can be issued securely.
+spv_explanation,What is an SPV?,A Special Purpose Vehicle (SPV) is a legal entity created to manage each property and issue the tokens.
+fund_transfer_to_spv,How do I send funds to the SPV?,"Once the SPV is created, you’ll get a prompt to send your reserved funds to its wallet."
+token_distribution,When do I receive my tokens?,You’ll get your tokens once the SPV receives your funds and legal setup is complete.
+legal_process,Why are legal documents needed?,They ensure your ownership and rights are protected in compliance with real estate laws.
+sale_agreement,How do I confirm a sale?,"Once legal checks are done, you’ll be prompted to review and confirm the sale details."
+oracle_update,What’s the Oracle’s role?,The Oracle updates the SPV's smart contract with verified off-chain data like ownership transfers.
+letting_agent_info,Who manages the property?,"Licensed letting agents handle rentals, maintenance, and tenant communication."
+spv_voting,How does SPV voting work?,"Token holders can vote on important property decisions, like letting agent terms or sales."
+property_rented,How do I know it’s rented?,You’ll receive a notification and dashboard update once the property is successfully rented.
+rental_income,When do I get paid rent?,"Rental income is sent monthly to the SPV, and you can claim your share from the app."
+income_claim,How do I claim rental income?,"Tap on your wallet balance, click 'Receive', and follow the instructions to transfer to your bank."
+token_resale,Can I sell my tokens?,"Yes, you can list your tokens for resale on the in-app secondary market noticeboard."
+buyer_interaction,Someone messaged me to buy tokens. What now?,You can chat with them in-app and finalize the deal directly.
+offer_process,How do I accept an offer?,Tap the offer notification and hit 'Accept' — the Oracle will handle the token transfer.
+technical_issue,The app is not working properly.,Try restarting your app or checking your internet connection. Still stuck? Contact support.
+missing_tokens,I didn’t receive my tokens.,Double-check if your SPV is funded and contracts are signed. Contact support if it's still missing.
+delayed_income,My rental income is late.,Sometimes delays happen due to banking processes. We’ll notify you as soon as income is ready.
